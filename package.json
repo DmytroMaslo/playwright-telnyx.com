@@ -1,0 +1,24 @@
+{
+  "name": "playwright-telnyx.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmytroMaslo/playwright-telnyx.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmytroMaslo/playwright-telnyx.com/issues"
+  },
+  "homepage": "https://github.com/DmytroMaslo/playwright-telnyx.com#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.27.1",
+    "allure-playwright": "^2.0.0-beta.19"
+  }
+}
