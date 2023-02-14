@@ -1,1 +1,1 @@
-{" tests/main.spec.js Main page Check title ":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"4e74aeff3ac262cf","status":"passed","time":{"start":1668675990039,"stop":1668675992484,"duration":2445}}]}}
+{" tests/main.spec.js Main page Check title ":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"ca3ba7a90446dd70","status":"passed","time":{"start":1676380790855,"stop":1676380793228,"duration":2373}}]}}

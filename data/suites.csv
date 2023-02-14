@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Thu Nov 17 09:06:30 UTC 2022","Thu Nov 17 09:06:32 UTC 2022","2445","","tests/main.spec.js","Main page","","","Check title ",""
+"passed","Tue Feb 14 13:19:50 UTC 2023","Tue Feb 14 13:19:53 UTC 2023","2373","","tests/main.spec.js","Main page","","","Check title ",""
